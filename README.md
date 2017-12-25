@@ -45,6 +45,8 @@ Now you are ready to test the app. Just follow the remaining steps-
 
 cd ‘location of the repo in your system’
 
+npm install
+
 npm install native-base --save
 
 react-native link
