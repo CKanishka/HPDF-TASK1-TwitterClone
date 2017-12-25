@@ -59,7 +59,7 @@ react-native link
 
 App should get installed and start working on the connected device
 
-
+Note: This is just a static version of the app and further advancements like tab navigation are needed to be implemented.
 
 
 
